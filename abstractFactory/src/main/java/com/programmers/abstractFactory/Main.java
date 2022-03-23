@@ -3,8 +3,6 @@ package com.programmers.abstractFactory;
 import com.programmers.abstractFactory.factories.MacOSFactory;
 import com.programmers.abstractFactory.factories.WinOSFactory;
 
-import java.awt.datatransfer.Clipboard;
-import java.util.Locale;
 
 public class Main {
     // os정보에 따라 팩토리 구상체 app에 넣어주기
